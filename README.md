@@ -9,4 +9,4 @@ and if your mqtt stops working this code will restart your docker file.
 
 to run this app follow steps below: <br>
 ``` pip install requirements ``` <br>
-``` python main.py```
+``` python refMain.py```
